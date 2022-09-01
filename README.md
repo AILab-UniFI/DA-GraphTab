@@ -9,7 +9,7 @@ This repo is the implementation of "Data augmentation techniques on graph struct
 
 ## Introduction
 
-[Data Augmentation On Graphs For Table Type Classification][https://github.com/AILab-UniFI/DA-GraphTab] is a project with the purpose of identifying data augmentation techniques on table datas.
+[Data Augmentation On Graphs For Table Type Classification](https://github.com/AILab-UniFI/DA-GraphTab) is a project with the purpose of identifying data augmentation techniques on table datas.
 
 
 ## Setup
